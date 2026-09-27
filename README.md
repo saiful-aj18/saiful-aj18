@@ -91,5 +91,5 @@
 ### 🔥 My Stats :
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiful-aj18&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiful-aj18&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 </p>
